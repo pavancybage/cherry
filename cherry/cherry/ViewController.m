@@ -24,4 +24,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+
+- (void)hello {
+    // Do any additional setup after loading the view, typically from a nib.
+}
+
+
 @end
